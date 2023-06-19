@@ -182,7 +182,7 @@ gsap.to(".main-two",{
         start:" 60% bottom",
         end:"50% top ",
         scrub:3,
-        // markers:true
+    
     }
 })
 gsap.to(".main-three",{
@@ -194,7 +194,6 @@ gsap.to(".main-three",{
         start:" 60% top",
         end:"10% top ",
         scrub:3,
-        markers:true
     }
 })
 gsap.to(".cl", {
